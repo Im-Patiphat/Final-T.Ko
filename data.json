@@ -1,0 +1,87 @@
+{
+  "entrepreneurs": [
+    {
+      "Ename": "นายสมชาย",
+      "Eid": "001",
+      "Eskill": "Js",
+      "EPhoto": "./img/Google__G__logo.svg.png"
+    },
+    {
+      "Ename": "นางสาวสุดสวย",
+      "Eid": "002",
+      "Eskill": "Marketing",
+      "EPhoto": ""
+    },
+    {
+      "Ename": "นายรักเสียงดนตรี",
+      "Eid": "003",
+      "Eskill": "Music Production",
+      "EPhoto":""
+    }
+  ],
+  "students": [
+    [
+      {
+        "Sname": "นายสมพงค์",
+        "Sid": "1",
+        "Sskill": "Js",
+        "SProto": "./img/01.png"
+      },
+      {
+        "Sname": "นางสุดสวย",
+        "Sid": "2",
+        "Sskill": "Marketing",
+        "SProto": ""
+      },
+      {
+        "Sname": "นายรักเสียงดนตรี",
+        "Sid": "3",
+        "Sskill": "Music Production",
+        "SProto": ""
+      },
+      {
+        "Sname": "นางสุดเจ๋ง",
+        "Sid": "4",
+        "Sskill": "Graphic Design",
+        "SProto": ""
+      },
+      {
+        "Sname": "นายเก่งสุด",
+        "Sid": "5",
+        "Sskill": "Js",
+        "SProto": ""
+      },
+      {
+        "Sname": "นางสาวมั่นคง",
+        "Sid": "6",
+        "Sskill": "Finance",
+        "SProto": ""
+      },
+      {
+        "Sname": "นายสมหวัง",
+        "Sid": "7",
+        "Sskill": "Marketing",
+        "SProto": ""
+      },
+      {
+        "Sname": "นางสาวประสบความสำเร็จ",
+        "Sid": "8",
+        "Sskill": "Js",
+        "SProto": ""
+      },
+      {
+        "Sname": "นายสมคิด",
+        "Sid": "9",
+        "Sskill": "Problem Solving",
+        "SProto": ""
+      },
+      {
+        "Sname": "นางสาวสุดจะเท่",
+        "Sid": "10",
+        "Sskill": "Public Speaking",
+        "SProto": ""
+      }
+    ]
+
+  ]
+}

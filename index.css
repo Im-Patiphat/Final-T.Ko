@@ -1,0 +1,9 @@
+
+.list {
+    display: flex;
+}
+.row{
+    justify-content: center;
+    text-align: left;
+    margin: 50px;
+}
